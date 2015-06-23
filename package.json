@@ -1,7 +1,7 @@
 {
   "name": "gulp-check-hash",
   "description": "Check md5 hash before writing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/delphinpro/gulp-check-hash",
   "repository": {
     "type": "git",
